@@ -2065,6 +2065,13 @@ libi2c-dev:
   debian: [libi2c-dev]
   gentoo: [sys-apps/i2c-tools]
   ubuntu: [libi2c-dev]
+libibex-dev:
+  ubuntu:
+    source:
+      uri: 'https://gitlab.inria.fr/snippets/210/raw'
+  debian:
+    source:
+      uri: 'https://gitlab.inria.fr/snippets/210/raw'
 libicu-dev:
   debian: [libicu-dev]
   fedora: [libicu-devel]
