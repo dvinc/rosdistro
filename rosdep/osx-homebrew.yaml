@@ -223,6 +223,10 @@ libgsl:
   osx:
     homebrew:
       packages: [gsl]
+libibex-dev:
+  osx:
+    homebrew:
+      packages: [ibex]
 libjpeg:
   osx:
     homebrew:
